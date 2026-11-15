@@ -1,6 +1,6 @@
 # 📚 Sistema de Gerenciamento de Biblioteca
 
-Projeto desenvolvido na disciplina de **Paradigmas de Linguagens de Programação** (4º período - [Unipê](https://www.unipe.edu.br/)), com o objetivo de aplicar na prática os principais conceitos dos paradigmas de programação — em especial a **Programação Orientada a Objetos (POO)** e elementos de **Programação Funcional** — usando **JavaScript moderno (ES Modules)**.
+Projeto desenvolvido na disciplina de **Paradigmas de Linguagens de Programação** (4º período - [Unipê](https://www.unipe.edu.br)), com o objetivo de aplicar na prática os principais conceitos dos paradigmas de programação — em especial a **Programação Orientada a Objetos (POO)** e elementos de **Programação Funcional** — usando **JavaScript moderno (ES Modules)**.
 
 O sistema simula o funcionamento de uma biblioteca: cadastro de livros e usuários, registro de empréstimos e devoluções, cálculo de multas por atraso e geração de relatórios e estatísticas, tudo exibido no terminal.
 
